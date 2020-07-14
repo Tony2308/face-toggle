@@ -3,7 +3,9 @@
     font-family: 'Rajdhani', sans-serif;
 }
 
-
+body{
+    max-width: 600px;
+}
 
 
 main{
