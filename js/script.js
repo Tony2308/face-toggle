@@ -9,9 +9,9 @@ let input = document.querySelector('#guess');
 
 
 //cupture date entered by the user as integer
-// let predictDay = +prompt('Guess Cessation Date:');
+let predictDay = +prompt('Guess Cessation Date:');
 // let predictDay = +document.querySelector('#guess').value;
-let predictDay = document.getElementById('guess').value;
+// let predictDay = document.getElementById('guess').value;
 
 // let correctDate = parseInt(predictDay);
  // let predictDay = +document.getElementById('guessDate').value;
